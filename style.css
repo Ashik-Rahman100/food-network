@@ -92,6 +92,7 @@ ul li{
     background-color: #fff;
     margin: 50px 40px 50px 60px;
     padding-bottom: 20px;
+    padding-right: 125px;
     text-align: center;
     box-shadow: 10px 10px 20px gray;
     border-radius: 15px;
@@ -102,10 +103,12 @@ ul li{
 }
 .social-media{
     margin: 50px;
-    padding-left: 100px;
+    padding-left: 120px;
+   
 }
 .social-media img {
     width: 50%;
+    
 }
 /* Footer-section */
 footer{
